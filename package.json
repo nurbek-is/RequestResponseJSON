@@ -1,0 +1,8 @@
+{
+  "name": "jsonajax",
+  "description": "JSON-Ajax - Demo",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
